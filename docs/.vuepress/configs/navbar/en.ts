@@ -21,10 +21,15 @@ export const navbarEn: NavbarConfig = [
     text: 'Program',
     children: [
       {
+        text: 'Overall',
+        children: [
+          '/coding/README.md',
+        ],
+      },
+      {
         text: 'Golang',
         children: [
-          '/reference/plugin/pwa.md',
-          '/reference/plugin/pwa-popup.md',
+          '/coding/golang.md',
         ],
       },
       {
