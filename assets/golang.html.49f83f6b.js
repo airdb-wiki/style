@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2beec357","path":"/coding/golang.html","title":"Golang Coding Style","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657077597000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/golang.md"}');export{e as data};
