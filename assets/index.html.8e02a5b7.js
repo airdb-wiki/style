@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3fd37577","path":"/workflow/","title":"Ticket Workflow","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657555905000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"workflow/README.md"}');export{e as data};
