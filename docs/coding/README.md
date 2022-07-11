@@ -12,3 +12,5 @@
 [API Improvement Proposals](https://google.aip.dev/1)
 
 [Google Style Guides](https://google.github.io/styleguide/)
+
+[Markdown](https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md)
