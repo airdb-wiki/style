@@ -58,7 +58,7 @@ Feature 分支一般只在开发者的 repo 里，而不是在 origin 上。
 等同于hotfix，只是紧急性没有hotfix那么急迫。
 
 如下图所示：
-![branch](../images/git_branch.png)
+![branch](/images/git_branch.png)
 
 ## 二、分支开发
 新版本开始：每个人从最新develop上checkout一个本地分支做开发；
