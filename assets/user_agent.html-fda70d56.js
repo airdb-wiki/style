@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4fca1908","path":"/coding/user_agent.html","title":"User Agent","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658955888000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/user_agent.md"}');export{e as data};

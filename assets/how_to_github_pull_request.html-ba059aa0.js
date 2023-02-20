@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8054842c","path":"/github/how_to_github_pull_request.html","title":"如何参与贡献:","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658955888000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"github/how_to_github_pull_request.md"}');export{t as data};
