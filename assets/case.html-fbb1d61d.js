@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b96d9f86","path":"/coding/case.html","title":"好好写代码","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Bad Cases","slug":"bad-cases","link":"#bad-cases","children":[]}],"git":{"updatedTime":1676910236000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/case.md"}');export{e as data};

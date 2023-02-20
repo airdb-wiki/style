@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7444984a","path":"/apm/","title":"APM (Application Performance Monitoring)","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1676910236000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"apm/README.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-61e15e86","path":"/samples/go/tools.html","title":"Golang Command Line tools","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1658956268000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"samples/go/tools.md"}');export{e as data};

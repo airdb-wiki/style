@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e96a7fd8","path":"/coding/sec.html","title":"DevSecOps","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"设计理念","slug":"设计理念","link":"#设计理念","children":[]}],"git":{"updatedTime":1676910236000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"coding/sec.md"}');export{e as data};
