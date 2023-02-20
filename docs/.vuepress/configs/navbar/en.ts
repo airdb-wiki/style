@@ -7,12 +7,19 @@ export const navbarEn: NavbarConfig = [
     link: 'https://airdb.wiki',
   },
   {
-    text: 'Docs',
+    text: 'Workflow',
     children: [
       {
-        text: 'git',
+        text: 'Base',
         children: [
-          { text: 'CLI', link: '/reference/cli.html', },
+          { text: 'git', link: '/workflow/github/README.md', },
+        ],
+      },
+      {
+        text: 'Github',
+        children: [
+          { text: 'github fork', link: '/workflow/github/fork.md', },
+          { text: 'github action', link: '/workflow/github_action.html', },
         ],
       },
     ],
@@ -35,8 +42,36 @@ export const navbarEn: NavbarConfig = [
       {
         text: 'Vue',
         children: [
-          '/reference/plugin/pwa.md',
-          '/reference/plugin/pwa-popup.md',
+          '/coding/README.md',
+        ],
+      },
+      {
+        text: 'Python',
+        children: [
+          '/coding/README.md',
+        ],
+      },
+      {
+        text: 'Flutter',
+        children: [
+          '/coding/README.md',
+        ],
+      },
+      {
+        text: 'Markdown',
+        children: [
+          '/coding/README.md',
+        ],
+      },
+    ],
+  },
+  {
+    text: 'Desgin',
+    children: [
+      {
+        text: 'DDD',
+        children: [
+          '/desgin/README.md',
         ],
       },
     ],

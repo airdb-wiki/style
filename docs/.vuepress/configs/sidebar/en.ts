@@ -20,6 +20,19 @@ export const sidebarEn: SidebarConfig = {
       ],
     },
   ],
+  '/workflow/': [
+    {
+      text: 'workflow',
+      children: [
+        '/workflow/README.md',
+        '/workflow/github/actions.md',
+        '/workflow/github/fork.md',
+        '/workflow/github/git_branch_manage.md',
+        '/workflow/github/issue.md',
+        '/workflow/github/makefile.md',
+      ],
+    },
+  ],
   '/advanced/': [
     {
       text: 'Advanced',
