@@ -12,14 +12,14 @@ export const navbarEn: NavbarConfig = [
       {
         text: 'Base',
         children: [
-          { text: 'git', link: '/workflow/github/README.md', },
+          { text: 'git', link: '/workflow/github/git_branch_manage.md', },
         ],
       },
       {
         text: 'Github',
         children: [
-          { text: 'github fork', link: '/workflow/github/fork.md', },
-          { text: 'github action', link: '/workflow/github_action.html', },
+          { text: '开发指南', link: '/workflow/github/new.md', },
+          { text: 'github action', link: '/workflow/github/actions.html', },
         ],
       },
     ],

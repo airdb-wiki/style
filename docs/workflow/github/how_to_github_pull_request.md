@@ -1,4 +1,4 @@
-如何参与贡献:
+如何参与贡献
 ========================
 
 - Github 提交 PR, 地址: github.com/airdb/fun
@@ -20,18 +20,18 @@ Github 如何提交 PR
 
   检查当前 Git Repository
 
-```
-    git remote  -v
-    origin    https://github.com/airdb/fun (fetch)
-    origin    https://github.com/airdb/fun (push)
+```bash
+git remote  -v
+origin    https://github.com/airdb/fun (fetch)
+origin    https://github.com/airdb/fun (push)
 ```
 
 - step 4:
 
   新建立贡献者 Git Repository 的连接
 
-```
-    git remote add pullrequest https://github.com/deanchina/docs
+```bash
+git remote add pullrequest https://github.com/deanchina/docs
 ```
 
 - step 5:
@@ -39,11 +39,11 @@ Github 如何提交 PR
   新建工作分支
 
 ```
-    git checkout -b devel
+git checkout -b dev
 
-    git branch
-    * devel
-      master
+git branch
+* dev
+  master
 ```
 
 - step 6:
@@ -55,8 +55,8 @@ Github 如何提交 PR
   提交到贡献者 Github 上
 
 ```
-    git add .
-    git commit -m"pull request"
+git add .
+git commit -m"pull request"
 ```
 
 - step 8
