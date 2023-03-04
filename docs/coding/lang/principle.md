@@ -18,4 +18,5 @@
 ## Don'ts
 
 - Donot push to the *main* branch. By right should create *Pull Request* for code merge.
+- Each repo should has it's own README.md and Makefile, github or gitlab action better to have.
 - let me think.
