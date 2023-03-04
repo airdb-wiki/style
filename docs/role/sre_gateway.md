@@ -8,7 +8,7 @@
 - 国内业务主域名：airdb.net
 - 主机管理： airdb.host
 
-命名规范：<project>.<domain>
+命名规范：$project.$domain
 
 其中 project 是一串英文字符，不能包括 "."， 最好是项目英文名，可以使用"-"和数字。
 
@@ -23,6 +23,7 @@
 
 当前网络接入是使用 4 层负载均衡（load balancer), 转发给 Caddy Waf.
 Caddy Waf 功能
+
 - 侦测请求，如果判定为异常请求，则进行阻断。
 - 转发后端，正常返回给用户。
 - HTTPS 证书自动申请、更新
