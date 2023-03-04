@@ -28,39 +28,26 @@ export const navbarEn: NavbarConfig = [
     text: 'Program',
     children: [
       {
-        text: 'Overall',
+        text: 'Lang',
         children: [
-          '/coding/README.md',
+          '/coding/lang/principle.md',
+          '/coding/lang/golang.md',
+          '/coding/lang/vue.md',
+          '/coding/lang/python.md',
+          '/coding/lang/flutter.md',
+          '/coding/lang/markdown.md',
         ],
       },
       {
-        text: 'Golang',
+        text: 'Defensive Programing',
         children: [
-          '/coding/golang.md',
+          '/coding/defensive-programming.md',
         ],
       },
       {
-        text: 'Vue',
+        text: 'Security',
         children: [
-          '/coding/README.md',
-        ],
-      },
-      {
-        text: 'Python',
-        children: [
-          '/coding/README.md',
-        ],
-      },
-      {
-        text: 'Flutter',
-        children: [
-          '/coding/README.md',
-        ],
-      },
-      {
-        text: 'Markdown',
-        children: [
-          '/coding/README.md',
+          '/coding/sec.md',
         ],
       },
     ],
