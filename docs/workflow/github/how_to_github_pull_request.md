@@ -8,6 +8,9 @@
 Github 如何提交 PR
 ========================
 
+> **Tip for new contributors:**
+> Take a look at [https://github.com/firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) for helpful information on contributing.
+
 - step 1:
 
   Fork GitHub 上的 Repository 到贡献者的 Repository
